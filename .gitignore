@@ -1,7 +1,8 @@
 *.txt
 build/src/*.o
 build/test/*.o
+
 *.md
 bin/*.exe
 bin/geo_test.*
-bin/geo.*
+bin/geo.* 
